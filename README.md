@@ -1,7 +1,7 @@
 # eye-project
 ## This program generates an image of an eye via basic html shapes and then sets the pupil to follow the cursor while still bound within the confines of the eye itself.
 ### to run this program first clone the repository and then open the index.html in your browser
-#### To expand apon this project I plan to add motion to the eyes them selves, as well as adding aditional items to potentialy track and follow the cursor or each other 
+#### To expand upon this project I plan to add motion to the eyes themselves, as well as adding additional items to potentially track and follow the cursor or each other 
 ##### MIT License
 
 Copyright (c) [2022] [Austin Quinn]
